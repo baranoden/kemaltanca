@@ -1,17 +1,17 @@
 // Nav Toggle
 
-// const list=document.querySelector(".header-menu")
-// const navToggle=document.querySelector(".nav-toggle")
+const list=document.querySelector(".header-menu")
+const navToggle=document.querySelector(".nav-toggle")
 
 
-// console.log(navToggle)
-// navToggle.addEventListener("click",function(){
+
+navToggle.addEventListener("click",function(){
 
 
-//     list.classList.toggle("show-links")
+    list.classList.toggle("show-links")
 
 
-// })
+})
 
 
 // Scroll To Top
